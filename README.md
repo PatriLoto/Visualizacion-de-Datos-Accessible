@@ -1,10 +1,10 @@
-# Visualizacion de Datos Accessible
+# Visualización de Datos Accessible
  Listado en proceso de elaboración con recursos (artículos, libros, charlas y herramientas) sobre Accesibilidad y Visualización de Datos.
 
-# 📋  Recursos sobre visualización de datos accesible.
+## 📋  Recursos sobre visualización de datos accesible.
 
 
-# English
+## English
 
 ## Table of Contents 
 
