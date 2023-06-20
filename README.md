@@ -60,3 +60,8 @@
 * [Accesibilidad de la visualización de datos](http://sidar.org/ponencias/2015/jpd15/) 
 
 * [Cómo ver, oír, tocar y oler los datos cuando se vive con ceguera](https://www.yotambien.mx/actualidad/visualizacion-inclusiva-accesibilidad-digital-para-ceguera/)
+
+
+### Colaboraciones
+
+Si te interesa sumar algún recurso por favor no dudes en abrir un pull request o escribime a [patricia.andrea.loto@gmail.com](patricia.andrea.loto@gmail.com).
