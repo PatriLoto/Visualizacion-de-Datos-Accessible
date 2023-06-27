@@ -57,7 +57,7 @@
 
 * [Accesibilidad en visualizaciones de datos](https://learn.microsoft.com/es-[es/office/dev/add-ins/design/data-visualization-guidelines)
 
-* [Accesibilidad de la visualización de datos](http://sidar.org/ponencias/2015/jpd15/) 
+* [Accesibilidad y visualización de datos](http://sidar.org/ponencias/2015/jpd15/) 
 
 * [Cómo ver, oír, tocar y oler los datos cuando se vive con ceguera](https://www.yotambien.mx/actualidad/visualizacion-inclusiva-accesibilidad-digital-para-ceguera/)
 
