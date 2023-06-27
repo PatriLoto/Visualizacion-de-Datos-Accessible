@@ -18,6 +18,8 @@
 
 ### Accessible data visualization Resources
 
+* [Do No Harm Guide: Centering Accessibility in Data Visualization, by Jonathan Schwabish, Susan J. Popkin, Alice Feng](https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization)
+
 * [An Intro to Designing Accessible Data Visualizations](https://fossheim.io/writing/posts/accessible-dataviz-design/), by Sarah Fossheim
 
 * [Why Accessibility is at the Heart of Data Visualization](https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b), by Doug Schepers
