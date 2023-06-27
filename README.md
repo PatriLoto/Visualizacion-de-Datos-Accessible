@@ -48,10 +48,16 @@
 
 ### **Recursos de Accesibilidad general**
 
+* [Ciclo de formación: Mundo digital Accesible por DALAT y SEU - UTN Córdoba](https://youtube.com/playlist?list=PLergKtvtBJw34z0_kO2mohz8KabkfTNsD) 
 
+* [Pequeño glosario de Términos de Accesibilidad y discapacidad por Pipi Marquez](https://pipimarquez.medium.com/peque%C3%B1o-glosario-de-t%C3%A9rminos-de-accesibilidad-y-discapacidad-a44080abd8d1)
+
+* [Buenas prácticas para crear presentaciones accesibles por Metadocencia](https://www.metadocencia.org/post/presentaciones-accesibles/)
 
 
 ### **Recursos de visualización de datos accesible**
+
+* [Colores Accesibles (Nivel A) y Daltonismo por Pipi Marquez](https://pipimarquez.medium.com/colores-accesibles-nivel-a-y-daltonismo-769d4e8fbaab)
 
 * [¿Qué es la visualización de datos inclusiva?](https://datouch.uma.es/2022/10/07/que-es-la-visualizacion-de-datos-inclusiva/)
 
