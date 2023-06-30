@@ -20,13 +20,13 @@
 
 ### Accessible data visualization Resources
 
-* [Do No Harm Guide: Centering Accessibility in Data Visualization, by Jonathan Schwabish, Susan J. Popkin, Alice Feng](https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization)
+* [Do No Harm Guide: Centering Accessibility in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization), by Jonathan Schwabish, Susan J. Popkin, Alice Feng.
 
-* [An Intro to Designing Accessible Data Visualizations](https://fossheim.io/writing/posts/accessible-dataviz-design/), by Sarah Fossheim
+* [An Intro to Designing Accessible Data Visualizations](https://fossheim.io/writing/posts/accessible-dataviz-design/), by Sarah Fossheim.
 
-* [Why Accessibility is at the Heart of Data Visualization](https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b), by Doug Schepers
+* [Why Accessibility is at the Heart of Data Visualization](https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b), by Doug Schepers.
 
-* [Writing Alt Text for Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81), by Amy Cesal
+* [Writing Alt Text for Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81), by Amy Cesal.
 
 * [An incomplete guide to accessible data visualization](https://towardsdatascience.com/an-incomplete-guide-to-accessible-data-visualization-33f15bfcc400)
 
@@ -51,17 +51,17 @@
 
 ### **Recursos de Accesibilidad general**
 
-* [Ciclo de formación: Mundo digital Accesible por DALAT y SEU - UTN Córdoba](https://youtube.com/playlist?list=PLergKtvtBJw34z0_kO2mohz8KabkfTNsD) 
+* [Ciclo de formación: Mundo digital Accesible](https://youtube.com/playlist?list=PLergKtvtBJw34z0_kO2mohz8KabkfTNsD), por DALAT y SEU - UTN Córdoba.
 
-* [Pequeño glosario de Términos de Accesibilidad y discapacidad por Pipi Marquez](https://pipimarquez.medium.com/peque%C3%B1o-glosario-de-t%C3%A9rminos-de-accesibilidad-y-discapacidad-a44080abd8d1)
+* [Pequeño glosario de Términos de Accesibilidad y discapacidad](https://pipimarquez.medium.com/peque%C3%B1o-glosario-de-t%C3%A9rminos-de-accesibilidad-y-discapacidad-a44080abd8d1), por Pipi Marquez.
 
-* [Buenas prácticas para crear presentaciones accesibles por Metadocencia](https://www.metadocencia.org/post/presentaciones-accesibles/)
+* [Buenas prácticas para crear presentaciones accesibles](https://www.metadocencia.org/post/presentaciones-accesibles/),  por Metadocencia.
 
 
 ### **Recursos de visualización de datos accesible**
 
-* [Colores Accesibles (Nivel A) y Daltonismo por Pipi Marquez](https://pipimarquez.medium.com/colores-accesibles-nivel-a-y-daltonismo-769d4e8fbaab)
-
+* [Colores Accesibles (Nivel A) y Daltonismo](https://pipimarquez.medium.com/colores-accesibles-nivel-a-y-daltonismo-769d4e8fbaab),  por Pipi Marquez.
+  
 * [¿Qué es la visualización de datos inclusiva?](https://datouch.uma.es/2022/10/07/que-es-la-visualizacion-de-datos-inclusiva/)
 
 * [Accesibilidad en visualizaciones de datos](https://learn.microsoft.com/es-[es/office/dev/add-ins/design/data-visualization-guidelines)
