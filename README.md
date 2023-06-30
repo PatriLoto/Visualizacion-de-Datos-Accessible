@@ -15,6 +15,8 @@
 
 * [How to design for accessibility](https://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility)
 
+* [DEI Tip Sheet: Virtual event accessibility guiding questions](https://zenodo.org/record/8043909), by Carpenter, Rebecca;  Kobilka, Sara;  Pratt, Katie;  Sanghvi, Maya;  Wright, Casey; Bellini Saibene, Yanina;  Ye, Hao;  Woodley, Lou.
+
 
 ### Accessible data visualization Resources
 
@@ -39,7 +41,6 @@
 * [The accessibility of Highcharts](https://www.highcharts.com/docs/accessibility/accessibility-module)
 
 * [Chartability](https://chartability.fizz.studio/)
-
 
 
 
