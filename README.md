@@ -7,9 +7,11 @@
 
 ### General Accessibility Resources
 
+* [A little book of accessibility](https://www.ab11y.com/articles/a-little-book-of-accessibility/)
+
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 
-* [A little book of accessibility](https://www.ab11y.com/articles/a-little-book-of-accessibility/)
+* [Check your WCAG Compliance](https://www.a11yproject.com/checklist/#title), by The Accessibility Project.
 
 * [Inclusive design](https://automattic.design/inclusive/)
 
@@ -17,6 +19,11 @@
 
 * [DEI Tip Sheet: Virtual event accessibility guiding questions](https://zenodo.org/record/8043909), by Carpenter, Rebecca;  Kobilka, Sara;  Pratt, Katie;  Sanghvi, Maya;  Wright, Casey; Bellini Saibene, Yanina;  Ye, Hao;  Woodley, Lou.
 
+#### **Posts**
+
+* [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/), by Ire Aderinokun.
+
+* [Considerations when writing alt text](https://ux.shopify.com/considerations-when-writing-alt-text-a9c1985a8204), by Scott Vinkle.
 
 ### Accessible data visualization Resources
 
@@ -57,7 +64,7 @@
 
 * [Buenas prácticas para crear presentaciones accesibles](https://www.metadocencia.org/post/presentaciones-accesibles/),  por Metadocencia.
 
-#### Podcasts
+#### **Podcasts**
 * [Episodio 86: Accesibilidad sin barreras](https://podcasts.apple.com/us/podcast/episodio-86-ivonne-acevedo-accesibilidad-sin-barreras/id1464454956?i=1000514246627), por Ivonne Acevedo.
 
 * [Episodio 73: Diseño Accesible](https://podcasts.apple.com/us/podcast/episodio-73-adriana-mattei-sosa-dise%C3%B1o-accesible/id1464454956?i=1000500357583), por  Adriana Mattei Sosa
