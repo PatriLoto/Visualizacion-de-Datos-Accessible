@@ -57,7 +57,11 @@
 
 * [Buenas prácticas para crear presentaciones accesibles](https://www.metadocencia.org/post/presentaciones-accesibles/),  por Metadocencia.
 
+#### Podcasts
+* [Episodio 86: Accesibilidad sin barreras](https://podcasts.apple.com/us/podcast/episodio-86-ivonne-acevedo-accesibilidad-sin-barreras/id1464454956?i=1000514246627), por Ivonne Acevedo.
 
+* [Episodio 73: Diseño Accesible](https://podcasts.apple.com/us/podcast/episodio-73-adriana-mattei-sosa-dise%C3%B1o-accesible/id1464454956?i=1000500357583), por  Adriana Mattei Sosa
+  
 ### **Recursos de visualización de datos accesible**
 
 * [Colores Accesibles (Nivel A) y Daltonismo](https://pipimarquez.medium.com/colores-accesibles-nivel-a-y-daltonismo-769d4e8fbaab),  por Pipi Marquez.
