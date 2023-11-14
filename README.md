@@ -38,7 +38,7 @@
 
 * [Why Accessibility is at the Heart of Data Visualization](https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b), by Doug Schepers.
 
-* [Writing Alt Text for Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81), by Amy Cesal.
+* [Writing Alt Text for Data Visualization](https://nightingaledvs.com/writing-alt-text-for-data-visualization/), by Amy Cesal.
 
 * [An incomplete guide to accessible data visualization](https://towardsdatascience.com/an-incomplete-guide-to-accessible-data-visualization-33f15bfcc400)
 
