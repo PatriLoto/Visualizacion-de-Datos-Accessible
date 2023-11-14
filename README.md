@@ -53,6 +53,8 @@
 * [The accessibility of Highcharts](https://www.highcharts.com/docs/accessibility/accessibility-module)
 
 * [Chartability](https://chartability.fizz.studio/)
+  
+* [Accessible data viz is better data viz](https://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz)
 
 
 
