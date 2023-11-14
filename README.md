@@ -25,6 +25,11 @@
 
 * [Considerations when writing alt text](https://ux.shopify.com/considerations-when-writing-alt-text-a9c1985a8204), by Scott Vinkle.
 
+#### **Alt-Text**
+* [Images Tutorial] (https://www.w3.org/WAI/tutorials/images/)
+  
+* [Five golden rules for compliant alt text](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text)
+
 ### Accessible data visualization Resources
 
 * [Do No Harm Guide: Centering Accessibility in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization), by Jonathan Schwabish, Susan J. Popkin, Alice Feng.
