@@ -1,5 +1,5 @@
 # 📋  Recursos sobre visualización de datos accesible.
- Listado en proceso de elaboración con recursos (artículos, libros, charlas y herramientas) sobre Accesibilidad y Visualización de Datos.
+A compilation of materials (articles, books, lectures, and tools) about data visualisation and accessibility.
 
 ## English
 
@@ -60,6 +60,8 @@
 
 
 # Español
+
+Recopilación de materiales (artículos, libros, conferencias y herramientas) sobre visualización de datos y accesibilidad.
 
 ## Tabla de Contenidos
 
