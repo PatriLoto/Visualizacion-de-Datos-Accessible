@@ -1,4 +1,4 @@
-# 📋  Recursos sobre visualización de datos accesible.
+# 📋  Accessible data visualization resources and more.
 A compilation of materials (articles, books, lectures, and tools) about data visualisation and accessibility.
 
 ## English
