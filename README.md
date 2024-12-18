@@ -7,6 +7,8 @@ A compilation of materials (articles, books, lectures, and tools) about data vis
 
 ### General Accessibility Resources
 
+* [Accessibility Policy](https://book.the-turing-way.org/community-handbook/accessibility/accessibility-policy) by the Turing Way.
+
 * [A little book of accessibility](https://www.ab11y.com/articles/a-little-book-of-accessibility/)
 
 * [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
