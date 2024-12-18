@@ -42,7 +42,7 @@ A compilation of materials (articles, books, lectures, and tools) about data vis
 
 * [An incomplete guide to accessible data visualization](https://towardsdatascience.com/an-incomplete-guide-to-accessible-data-visualization-33f15bfcc400)
 
-*  [Accessible Visualization: Design Space, Opportunities, and Challenges](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14298)
+* [Accessible Visualization: Design Space, Opportunities, and Challenges](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14298)
 
 * [DataViz Accessibility](https://github.com/dataviza11y/resources)
 
@@ -71,7 +71,11 @@ Recopilación de materiales (artículos, libros, conferencias y herramientas) so
 
 * [Pequeño glosario de Términos de Accesibilidad y discapacidad](https://pipimarquez.medium.com/peque%C3%B1o-glosario-de-t%C3%A9rminos-de-accesibilidad-y-discapacidad-a44080abd8d1), por Pipi Marquez.
 
+* [Repositorio de Accesibilidad](https://zenodo.org/records/10514982), por Metadocencia.
+
 * [Buenas prácticas para crear presentaciones accesibles](https://www.metadocencia.org/post/presentaciones-accesibles/),  por Metadocencia.
+
+
 
 #### **Podcasts**
 * [Episodio 86: Accesibilidad sin barreras](https://podcasts.apple.com/us/podcast/episodio-86-ivonne-acevedo-accesibilidad-sin-barreras/id1464454956?i=1000514246627), por Ivonne Acevedo.
