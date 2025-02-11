@@ -9,8 +9,6 @@ A compilation of materials (articles, books, lectures, and tools) about data vis
 
 * [A little book of accessibility](https://www.ab11y.com/articles/a-little-book-of-accessibility/)
 
-* [Accessibility Policy](https://book.the-turing-way.org/community-handbook/accessibility/accessibility-policy), by the Turing Way.
-
 * [Check your WCAG Compliance](https://www.a11yproject.com/checklist/#title), by The Accessibility Project.
 
 * [DEI Tip Sheet: Virtual event accessibility guiding questions](https://zenodo.org/record/8043909), by Carpenter, Rebecca;  Kobilka, Sara;  Pratt, Katie;  Sanghvi, Maya;  Wright, Casey; Bellini Saibene, Yanina;  Ye, Hao;  Woodley, Lou.
@@ -22,14 +20,18 @@ A compilation of materials (articles, books, lectures, and tools) about data vis
 * [Inclusive design](https://automattic.design/inclusive/)
 
 
-#### **Posts**
+#### **Policies**
 
-* [Considerations when writing alt text](https://ux.shopify.com/considerations-when-writing-alt-text-a9c1985a8204), by Scott Vinkle.
+* [Accessibility Policy](https://book.the-turing-way.org/community-handbook/accessibility/accessibility-policy), by [The Turing Way](https://book.the-turing-way.org/).
+
+#### **Posts**
 
 * [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/), by Ire Aderinokun.
   
 
 #### **Alt-Text**
+
+* [Considerations when writing alt text](https://ux.shopify.com/considerations-when-writing-alt-text-a9c1985a8204), by Scott Vinkle.
 
 * [Images_Tutorial](https://www.w3.org/WAI/tutorials/images/)
   
@@ -71,13 +73,14 @@ Recopilación de materiales (artículos, libros, conferencias y herramientas) so
 
 ### **Recursos de Accesibilidad general**
 
+* [Repositorio de Accesibilidad](https://zenodo.org/records/10514982), por equipo de accesibilidad de [Metadocencia](https://metadocencia.netlify.app/).
+
 * [Buenas prácticas para crear presentaciones accesibles](https://www.metadocencia.org/post/presentaciones-accesibles/),  por Metadocencia.
 
 * [Ciclo de formación: Mundo digital Accesible](https://youtube.com/playlist?list=PLergKtvtBJw34z0_kO2mohz8KabkfTNsD), por DALAT y SEU - UTN Córdoba.
 
 * [Pequeño glosario de Términos de Accesibilidad y discapacidad](https://pipimarquez.medium.com/peque%C3%B1o-glosario-de-t%C3%A9rminos-de-accesibilidad-y-discapacidad-a44080abd8d1), por Pipi Marquez.
 
-* [Repositorio de Accesibilidad](https://zenodo.org/records/10514982), por Metadocencia.
 
 #### **Podcasts**
 * [Episodio 86: Accesibilidad sin barreras](https://podcasts.apple.com/us/podcast/episodio-86-ivonne-acevedo-accesibilidad-sin-barreras/id1464454956?i=1000514246627), por Ivonne Acevedo.
