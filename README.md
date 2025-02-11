@@ -36,6 +36,8 @@ A compilation of materials (articles, books, lectures, and tools) about data vis
 * [Images_Tutorial](https://www.w3.org/WAI/tutorials/images/)
   
 * [Five golden rules for compliant alt text](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text)
+  
+* [Best practices for describing an image in an alt text](https://book.the-turing-way.org/community-handbook/accessibility/accessibility-alt-text#ch-accessibility-alttext)
 
 ### Accessible data visualization Resources
 
