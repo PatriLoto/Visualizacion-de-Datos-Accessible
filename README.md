@@ -1,5 +1,5 @@
 # 📋  Accessible data visualization resources and more.
-A compilation of materials (articles, books, lectures, and tools) about data visualisation and accessibility.
+A collection of materials (articles, books, conferences and tools) on accessibility in data visualisation and more.
 
 ## English
 
